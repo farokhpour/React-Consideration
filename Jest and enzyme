@@ -1,0 +1,4 @@
+## Test Types 
+  *Unit Test: Tests one piece of of code(usually one function).
+  *Integration Tests: How Multiple Units Work Together.
+  *Acceptance/End to End(E2E) Tests: How a user would interact with app
